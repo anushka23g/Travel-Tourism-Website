@@ -1,7 +1,7 @@
 # Travel-Tourism-Website
-
+<br>
 ## Brief introduction about a project:
-
+<br>
 Since tourism is one of the most significant industries in India, we aim to simplify it with
 our project, helping people to spend a holiday at some of the most desirable holiday destinations.
 With this site, we aim to handle the planning part while families can just focus of the fun part.
@@ -24,35 +24,36 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 <br><br><br>
 
 ## Objectives
-
-📗 To provide best travelling services to the customers and travel agents
-📗 To provide a search platform where tourist can find their tour places according to their preference.
-📗 To promote responsible and interesting tourism so that people can enjoy their holiday at their favorable places.
-📗 Weather information
-📗 To provide efficient way to connect with various events.
-📗 To build healthy interaction opportunities for tourists and locals
+<br>
+📗 To provide best travelling services to the customers and travel agents <br>
+📗 To provide a search platform where tourist can find their tour places according to their preference. <br>
+📗 To promote responsible and interesting tourism so that people can enjoy their holiday at their favorable places. <br>
+📗 Weather information <br>
+📗 To provide efficient way to connect with various events. <br>
+📗 To build healthy interaction opportunities for tourists and locals <br>
 <br><br><br>
 
 ## Features :
-
-📘 Login/Register System
-📘 Admin Panel
-📘 Manage, Create Packages
-📘 Easy Bookings
-📘 Manage Bookings
+<br>
+📘 Login/Register System <br>
+📘 Admin Panel <br>
+📘 Manage, Create Packages <br>
+📘 Easy Bookings <br>
+📘 Manage Bookings <br>
 
 
 ## Languages/Frameworks Used:
-:shaved_ice: PHP
-:shaved_ice: SQL
-:shaved_ice: HTML
-:shaved_ice: CSS
-:shaved_ice: JS
-:shaved_ice: Bootstrap
-
-## Database:
+<br>
+:shaved_ice: PHP<br>
+:shaved_ice: SQL<br>
+:shaved_ice: HTML<br>
+:shaved_ice: CSS<br>
+:shaved_ice: JS<br>
+:shaved_ice: Bootstrap<br>
+<br><br>
+## Database: <br>
 MySQL
-
-## Software:
+<br><br>
+## Software: <br>
 XAMPP 
 
