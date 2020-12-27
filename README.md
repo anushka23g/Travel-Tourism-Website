@@ -51,9 +51,11 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 :shaved_ice: JS<br>
 :shaved_ice: Bootstrap<br>
 <br><br>
+
 ## Database: <br>
-MySQL
+:airplane: MySQL
 <br><br>
+
 ## Software: <br>
-XAMPP 
+:desert_island: XAMPP 
 
