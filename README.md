@@ -5,7 +5,8 @@
 Since tourism is one of the most significant industries in India, we aim to simplify it with
 our project, helping people to spend a holiday at some of the most desirable holiday destinations.
 With this site, we aim to handle the planning part while families can just focus of the fun part.
-<br> We will be using php/html for the front-end and php MyAdmin for the back-end. The
+<br> 
+We will be using php/html for the front-end and php MyAdmin for the back-end. The
 styling part will be done using CSS while the functionality will be added using JavaScript. We
 plan on making it as user-friendly as possible, with preplanned packages and even custom
 packages available which user can choose according to his preference.
