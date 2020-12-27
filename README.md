@@ -45,7 +45,9 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 
 ## :trophy: ER Diagram:
 <br>
+
 ![ER-Diagram](https://github.com/anushka23g/Travel-Tourism-Website/blob/master/er-diagram.jpg)
+
 <br><br><br>
 
 ## :trophy: Languages/Frameworks Used:
