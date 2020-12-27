@@ -1,7 +1,7 @@
 # Travel-Tourism-Website
 <br>
  
- ## Brief introduction about a project:
+ ## :trophy: Brief introduction about a project:
 <br>
 Since tourism is one of the most significant industries in India, we aim to simplify it with
 our project, helping people to spend a holiday at some of the most desirable holiday destinations.
@@ -24,7 +24,7 @@ monuments ,coastal areas etc.
 The customer can sign in/sign up and search for the tour packages. Customers can book easily through the site. And there are other features such as customers can check their Tour history and their issued tickets, and many more. And Admin can Create, Manage Packages, Manage bookings, issues, inquiries, pages. The design is pretty simple and the user won’t find it difficult to understand, use and navigate.
 <br><br><br>
 
-## Objectives
+## :trophy: Objectives
 <br>
 📗 To provide best travelling services to the customers and travel agents <br>
 📗 To provide a search platform where tourist can find their tour places according to their preference. <br>
@@ -34,7 +34,7 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 📗 To build healthy interaction opportunities for tourists and locals <br>
 <br><br><br>
 
-## Features :
+## :trophy: Features :
 <br>
 📘 Login/Register System <br>
 📘 Admin Panel <br>
@@ -43,7 +43,7 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 📘 Manage Bookings <br>
 
 
-## Languages/Frameworks Used:
+## :trophy: Languages/Frameworks Used:
 <br>
 :shaved_ice: PHP<br>
 :shaved_ice: SQL<br>
@@ -53,10 +53,10 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 :shaved_ice: Bootstrap<br>
 <br><br>
 
-## Database: <br>
+## :trophy: Database: <br>
 :airplane: MySQL
 <br><br>
 
-## Software: <br>
+## :trophy: Software: <br>
 :desert_island: XAMPP 
 
