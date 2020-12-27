@@ -42,7 +42,7 @@ The customer can sign in/sign up and search for the tour packages. Customers can
 📘 Easy Bookings <br>
 📘 Manage Bookings <br>
 
-[ER-Diagram](https://github.com/anushka23g/Travel-Tourism-Website/blob/master/er-diagram.jpg)
+![ER-Diagram](https://github.com/anushka23g/Travel-Tourism-Website/blob/master/er-diagram.jpg)
 
 ## :trophy: Languages/Frameworks Used:
 <br>
